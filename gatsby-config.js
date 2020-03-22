@@ -6,7 +6,7 @@ module.exports = {
       summary: `Algorithmic, quantitative and financial concepts.`,
     },
     description: `Algorithmic, quantitative and financial concepts.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://financiest.org/`,
     social: {
       twitter: ``,
     },
@@ -66,7 +66,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/profile-pic.png`, 
+        icon: `content/assets/profile-pic.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
