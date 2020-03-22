@@ -13,7 +13,13 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />
-      <Bio />
+      <h3
+        style={{
+          fontFamily: `Times New Roman, sans-serif`,
+        }}
+      >
+        Algorithmic, quantitative and financial concepts.
+      </h3>
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
@@ -22,6 +28,7 @@ const BlogIndex = ({ data, location }) => {
               <h3
                 style={{
                   marginBottom: rhythm(1 / 4),
+                  fontFamily: `Times New Roman, sans-serif`,
                 }}
               >
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
