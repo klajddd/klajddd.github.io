@@ -11,7 +11,7 @@ Python implementation:
 # Time: O(node + edge)
 # Space: O(node)
 def breadthFirstSearch(self, resultList):
-    # Create a queue, a FIFO strucutre, to contain
+    # Create a queue, a FIFO structure, to contain
     # all nodes that will be processed
     queue = [self]
     while len(queue) > 0:
