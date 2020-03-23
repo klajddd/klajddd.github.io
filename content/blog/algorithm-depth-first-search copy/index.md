@@ -1,5 +1,5 @@
 ---
-title: Algorithm - Depth first search
+title: Algorithm of depth first search
 date: "2015-05-06T23:46:37.121Z"
 ---
 

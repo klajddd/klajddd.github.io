@@ -1,11 +1,11 @@
 ---
-title: Algorithm - Breadth first search
+title: Algorithm of breadth first search
 date: "2015-05-06T23:46:37.121Z"
 ---
 
 Breadth first search is an algorithm used for searching through all the nodes in a graph or tree structure.
 
-Python implementation: 
+Python implementation:
 
 ```python
 # Time: O(node + edge)

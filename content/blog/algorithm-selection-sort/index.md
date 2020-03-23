@@ -1,5 +1,5 @@
 ---
-title: Algorithm - Selection sort
+title: Algorithm of selection sort
 date: "2015-05-06T23:46:37.121Z"
 ---
 
