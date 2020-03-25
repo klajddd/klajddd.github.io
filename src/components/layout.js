@@ -21,7 +21,7 @@ const Layout = ({ location, title, children }) => {
             boxShadow: `none`,
             textDecoration: `none`,
             color: `inherit`,
-            fontFamily: `Times New Roman, sans-serif`,
+            fontFamily: `Arial, sans-serif`,
           }}
           to={`/`}
         >
@@ -34,7 +34,7 @@ const Layout = ({ location, title, children }) => {
       <h3
         style={{
           ...scale(1.5),
-          fontFamily: `Times New Roman, sans-serif`,
+          fontFamily: `Arial, sans-serif`,
           marginTop: 0,
         }}
       >

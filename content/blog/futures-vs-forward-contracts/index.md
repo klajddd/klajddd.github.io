@@ -1,5 +1,5 @@
 ---
-title: Futures vs forward contracts
+title: Futures vs Forward Contracts
 date: "2015-05-01T22:12:03.284Z"
 description: "Futures and forward contracts are commitments to buy/sell assets at a certain time in the future for a certain price.
 

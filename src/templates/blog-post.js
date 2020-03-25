@@ -23,7 +23,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             style={{
               marginTop: rhythm(1),
               marginBottom: 0,
-              fontFamily: `Times New Roman, sans-serif`,
+              fontFamily: `Arial, sans-serif`,
             }}
           >
             {post.frontmatter.title}

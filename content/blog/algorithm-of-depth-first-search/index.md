@@ -1,9 +1,9 @@
 ---
-title: Algorithm of depth first search
+title: Algorithm of Depth First Search
 date: "2015-05-06T23:46:37.121Z"
 ---
 
-Depth first search is an algorithm used for searching through all the nodes in a graph or tree structure.
+Depth first search is an algorithm used for searching through nodes in a graph or a tree structure.
 
 Python implementation:
 

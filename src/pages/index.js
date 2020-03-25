@@ -15,7 +15,7 @@ const BlogIndex = ({ data, location }) => {
       <SEO title="All posts" />
       <h3
         style={{
-          fontFamily: `Times New Roman, sans-serif`,
+          fontFamily: `Arial, sans-serif`,
         }}
       >
         Algorithmic, quantitative and financial concepts.
@@ -28,7 +28,7 @@ const BlogIndex = ({ data, location }) => {
               <h3
                 style={{
                   marginBottom: rhythm(1 / 4),
-                  fontFamily: `Times New Roman, sans-serif`,
+                  fontFamily: `Arial, sans-serif`,
                 }}
               >
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
